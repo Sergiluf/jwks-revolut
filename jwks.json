@@ -3,7 +3,7 @@
     {
       "e": "AQAB",
       "n": "lthxTSArPBcgSdOysII4xncm-IG2uhNqoH2Jlx6mdanAqFlRSDTjYOiZwNSgUWbN4QFQQde-dqd0A_IHhqFI0hj7blaxUW6psTrR1GaVH-RN2ELHb98rVpGqSLvtq_nHrdXee3YM025gFpmWxW4BaoNSjEXaw7yP0wWaGHS487tf-eTUZd68_qZv-p-jcAx5afuw0xqPBs63spG0p77Vr57-ies1RqmuqAeGDzpXXOEOvqWOHMgMs0rGwTZ6Rp9p8gqAd1peZFx0jbxUiVTzgcG5pJ8CjhRdLe7KH2gPAWuqZQYvMEqNFxAottI4gCcE1AFG1jYmyEn1T-zBSoEXNQ",
-      "kid": "652bbdf3796d6f12a271e598826a692083a3f69fffd099e01ccdd120db197b6e",
+      "kid": "revolut-cajamar",
       "kty": "RSA",
       "use": "sig",
       "x5c": [
